@@ -24,6 +24,7 @@ O projeto vem equipado com uma série de ferramentaas de desenvolvimento, essenc
 - Python
 - Banco de Dados: PostgreSQL
 - Teste: Jest, Postman
+-React
 - Design: Figma
 - Documentação: Markdown, Swagger
 - Segurança: Helmet
