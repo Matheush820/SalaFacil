@@ -1,4 +1,4 @@
-# SalaFacil - Projeto para a necessidade dos alunos da Uninassau
+# SalaFacil - Projeto para a necessidade dos Professores da Uninassau
 
 Autor: Matheus Henrique dos Santos - Matrícula: 01675026
 
