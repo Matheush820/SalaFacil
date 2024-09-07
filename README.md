@@ -20,15 +20,37 @@ O projeto SalaFácil surgiu da necessidade da dificuldade dos professores da Uni
 A SalaFácil incorpora uma série de técnicas avançadas que a torna uma escolha ideal para o seu desenvolvimento
 
 O projeto vem equipado com uma série de ferramentaas de desenvolvimento, essenciais para um projeto com um resultado positivo e funcional
-- Front-End: HTML5, CSS3, JavaScript, Bootstrap
-- Python
+- Front-End: HTML5, CSS3, JavaScript, Bootstrap, React
+- Back-End: Python(flask ou Django)
 - Banco de Dados: PostgreSQL
-- Teste: Jest, Postman
--React
-- Design: Figma
-- Documentação: Markdown, Swagger
 - Segurança: Helmet
+- Teste: Jest, Postman
+- Design: Figma
+- Documentação: Markdown(Github), Swagger
 - Monitoramento: Sentry
+- Gestão de Projetos Ágeis: Jira, Trello ou ClickUp
+- Hospedagem e Deploy
+- 
+# Estrutura de Equipe
+Front-End Developers: 1 a 2 pessoas focadas em React.
+
+Back-End Developers: 1 a 2 pessoas focadas em Python (Flask ou Django).
+
+Designers: 1 a 2pessoa responsável por criar o layout e protótipos no Figma.
+
+QA/Testers: 1 pessoa para garantir que as funcionalidades estão corretas e realizar testes com Postman e Jest.
+
+Gerente de Projeto: 1 pessoa para gerenciar o andamento e garantir que todos estejam na mesma página.
+
+# Definições de requisitos
+
+Funcionalidades Principais: O que o sistema precisa fazer? Exemplo: permitir reservas de salas, notificar conflitos de horários, criar contas de professores, etc.
+
+Regras de Negócio: Defina como as reservas funcionarão. Quem pode reservar? Por quanto tempo? Como lidar com conflitos de reservas?
+
+Escopo: Delimite até onde o sistema vai. Evite adicionar muitas funcionalidades extras que não são essenciais inicialmente.
+
+Público-Alvo: Quem vai usar o sistema (neste caso, professores)? Que tipo de experiência eles esperam?
 
 # Conclusão
 
