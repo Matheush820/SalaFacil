@@ -52,17 +52,17 @@ QA/Testers: (1 a 2 pessoa para garantir que as funcionalidades estão corretas e
 
 # Definições de requisitos
 
-Funcionalidades Principais: O que o sistema precisa fazer? Exemplo: permitir reservas de salas, notificar conflitos de horários, criar contas de professores, etc.
+- Funcionalidades Principais: O que o sistema precisa fazer? Exemplo: permitir reservas de salas, notificar conflitos de horários, criar contas de professores, etc.
 
-Regras de Negócio: Defina como as reservas funcionarão. Quem pode reservar? Por quanto tempo? Como lidar com conflitos de reservas?
+- Regras de Negócio: Defina como as reservas funcionarão. Quem pode reservar? Por quanto tempo? Como lidar com conflitos de reservas?
 
-Escopo: Delimite até onde o sistema vai. Evite adicionar muitas funcionalidades extras que não são essenciais inicialmente.
+- Escopo: Delimite até onde o sistema vai. Evite adicionar muitas funcionalidades extras que não são essenciais inicialmente.
 
-Público-Alvo: Quem vai usar o sistema (neste caso, professores)? Que tipo de experiência eles esperam?
+- Público-Alvo: Quem vai usar o sistema (neste caso, professores)? Que tipo de experiência eles esperam?
 
-Conflitos de Reserva: Caso duas reservas sejam feitas para o mesmo horário, o sistema deve priorizar a primeira e notificar a outra parte.
+- Conflitos de Reserva: Caso duas reservas sejam feitas para o mesmo horário, o sistema deve priorizar a primeira e notificar a outra parte.
 
-Acesso de Usuários: Apenas professores poderão criar reservas, enquanto administradores poderão gerenciar usuários e horários
+- Acesso de Usuários: Apenas professores poderão criar reservas, enquanto administradores poderão gerenciar usuários e horários
 
 # Conclusão
 
