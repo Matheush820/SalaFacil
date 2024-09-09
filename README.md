@@ -37,7 +37,7 @@ O projeto vem equipado com uma série de ferramentaas de desenvolvimento, essenc
 - Gestão de Projetos Ágeis: Jira - Scrum
 - Hospedagem e Deploy: AWS, Heroku ou Google Cloud 
 - Ferramentas de Q/A: TestRail
-- 
+
 # Estrutura de Equipe
 Gerente de Projeto (1 pessoa)
 
