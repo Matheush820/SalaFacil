@@ -25,18 +25,21 @@ SalaFácil surgiu para solucionar as dificuldades enfrentadas pelos professores 
 A SalaFácil incorpora uma série de técnicas avançadas que a torna uma escolha ideal para o seu desenvolvimento
 
 O projeto vem equipado com uma série de ferramentaas de desenvolvimento, essenciais para um projeto com um resultado positivo e funcional
-- Front-End: HTML5, CSS3, JavaScript, Bootstrap, React
-- Back-End: Python(flask ou Django)
-- Banco de Dados: PostgreSQL
-- Segurança: Helmet
-- Teste: Jest, Postman
 - Design: Figma
-- Documentação: Markdown(Github), Swagger
+- Front-End: HTML5, CSS3, JavaScript, Bootstrap
+- Back-End: Python ou Java
+- Biblioteca: React
+- Banco de Dados: PostgreSQL
+- Teste: Jest, Postman
+- Segurança: Helmet
 - Monitoramento: Sentry
-- Gestão de Projetos Ágeis: Jira, Trello ou ClickUp
+- Documentação: Markdown(Github), Swagger
+- Gestão de Projetos Ágeis: Jira - Scrum
 - Hospedagem e Deploy: AWS, Heroku ou Google Cloud 
+- Ferramentas de Q/A: TestRail
 - 
 # Estrutura de Equipe
+
 Front-End Developers: 1 a 2 pessoas focadas em React.
 
 Back-End Developers: 1 a 2 pessoas focadas em Python (Flask ou Django).
