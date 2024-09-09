@@ -39,16 +39,16 @@ O projeto vem equipado com uma série de ferramentaas de desenvolvimento, essenc
 - Ferramentas de Q/A: TestRail
 - 
 # Estrutura de Equipe
+Gerente de Projeto (1 pessoa)
 
-Front-End Developers: 1 a 2 pessoas focadas em React.
+Front-End Developers (1 a 2 pessoas focadas)
 
-Back-End Developers: 1 a 2 pessoas focadas em Python (Flask ou Django).
+Back-End Developers (1 a 2 pessoas focadas em Python ou java)
 
-Designers: 1 a 2pessoa responsável por criar o layout e protótipos no Figma.
+Designers (1 a 2 pessoas responsável por criar o layout e protótipos no Figma)
 
-QA/Testers: 1 pessoa para garantir que as funcionalidades estão corretas e realizar testes com Postman e Jest.
+QA/Testers: (1 a 2 pessoa para garantir que as funcionalidades estão corretas e realizar testes com Postman e Jest)
 
-Gerente de Projeto: 1 pessoa para gerenciar o andamento e garantir que todos estejam na mesma página.
 
 # Definições de requisitos
 
