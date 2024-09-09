@@ -49,6 +49,7 @@ Designers Designers: Criarão protótipos interativos e garantirão uma experiê
 
 QA/Testers: Responsáveis por realizar testes funcionais e de carga, garantindo a estabilidade do sistema.(1 a 2 pessoa para garantir que as funcionalidades estão corretas e realizar testes com Postman e Jest).
 
+Documentação: Pessoas que irão documenatar o projeto (1 a 2 pessoas focadas).
 
 # Definições de requisitos
 
