@@ -4,7 +4,7 @@ Autor: Matheus Henrique dos Santos - Matrícula: 01675026
 
 # Introdução
 
-O projeto SalaFácil consiste em um sistema que facilita a reserva de salas, permitindo que professores verifiquem a disponibilidade e façam reservas de laboratórios de informática, saúde e outros espaços, de acordo com suas necessidades
+O projeto SalaFácil consiste em um sistema que facilita a reserva de salas, permitindo que professores verifiquem a disponibilidade e façam reservas de laboratórios de informática, saúde e outros espaços, de acordo com suas necessidades.
 
 # Visão Geral do Projeto
 SalaFácil surgiu para solucionar as dificuldades enfrentadas pelos professores da Uninassau na reserva de salas, tornando o processo mais ágil e acessível.
@@ -22,9 +22,9 @@ SalaFácil surgiu para solucionar as dificuldades enfrentadas pelos professores 
 
 # Ferramentas de Desenvolvimento
 
-A SalaFácil incorpora uma série de técnicas avançadas que a torna uma escolha ideal para o seu desenvolvimento
+A SalaFácil incorpora uma série de técnicas avançadas que a torna uma escolha ideal para o seu desenvolvimento.
 
-O projeto vem equipado com uma série de ferramentaas de desenvolvimento, essenciais para um projeto com um resultado positivo e funcional
+O projeto vem equipado com uma série de ferramentaas de desenvolvimento, essenciais para um projeto com um resultado positivo e funcional.
 - Design: Figma
 - Front-End: HTML5, CSS3, JavaScript, Bootstrap
 - Back-End: Python ou Java
@@ -39,15 +39,15 @@ O projeto vem equipado com uma série de ferramentaas de desenvolvimento, essenc
 - Ferramentas de Q/A: TestRail
 
 # Estrutura de Equipe
-Gerente de Projeto (1 pessoa)
+Gerente de Projeto (1 pessoa).
 
-Front-End Developers (1 a 2 pessoas focadas)
+Front-End Developers (1 a 2 pessoas focadas).
 
-Back-End Developers (1 a 2 pessoas focadas em Python ou java)
+Back-End Developers (1 a 2 pessoas focadas em Python ou java).
 
-Designers (1 a 2 pessoas responsável por criar o layout e protótipos no Figma)
+Designers (1 a 2 pessoas responsável por criar o layout e protótipos no Figma).
 
-QA/Testers: (1 a 2 pessoa para garantir que as funcionalidades estão corretas e realizar testes com Postman e Jest)
+QA/Testers: (1 a 2 pessoa para garantir que as funcionalidades estão corretas e realizar testes com Postman e Jest).
 
 
 # Definições de requisitos
@@ -60,7 +60,7 @@ QA/Testers: (1 a 2 pessoa para garantir que as funcionalidades estão corretas e
 
 - Conflitos de Reserva: Caso duas reservas sejam feitas para o mesmo horário, o sistema deve priorizar a primeira e notificar a outra parte.
 
-- Acesso de Usuários: Apenas professores poderão criar reservas, enquanto administradores poderão gerenciar usuários e horários
+- Acesso de Usuários: Apenas professores poderão criar reservas, enquanto administradores poderão gerenciar usuários e horários.
 
 # Conclusão
 
