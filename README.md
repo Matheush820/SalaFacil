@@ -4,7 +4,7 @@ Autor: Matheus Henrique dos Santos - Matrícula: 01675026
 
 # Introdução
 
-O projeto SalaFácil consiste em um sistema que facilita a reserva de salas, permitindo que professores verifiquem a disponibilidade e façam reservas de laboratórios de informática, saúde e outros espaços, de acordo com suas necessidades.
+O projeto SalaFácil foi concebido para resolver um problema recorrente na gestão de espaços acadêmicos na Uninassau. Os professores enfrentam dificuldades para verificar a disponibilidade e reservar salas de forma eficiente, especialmente em horários de pico. O objetivo deste sistema é agilizar e centralizar esse processo, proporcionando uma experiência mais fluida para os usuários.
 
 # Visão Geral do Projeto
 SalaFácil surgiu para solucionar as dificuldades enfrentadas pelos professores da Uninassau na reserva de salas, tornando o processo mais ágil e acessível.
@@ -24,7 +24,7 @@ SalaFácil surgiu para solucionar as dificuldades enfrentadas pelos professores 
 
 A SalaFácil incorpora uma série de técnicas avançadas que a torna uma escolha ideal para o seu desenvolvimento.
 
-O projeto vem equipado com uma série de ferramentaas de desenvolvimento, essenciais para um projeto com um resultado positivo e funcional.
+O projeto vem equipado com uma série de ferramentas de desenvolvimento, essenciais para um projeto com um resultado positivo e funcional.
 - Design: Figma
 - Front-End: HTML5, CSS3, JavaScript, Bootstrap
 - Back-End: Python ou Java
@@ -41,13 +41,13 @@ O projeto vem equipado com uma série de ferramentaas de desenvolvimento, essenc
 # Estrutura de Equipe
 Gerente de Projeto (1 pessoa).
 
-Front-End Developers (1 a 2 pessoas focadas).
+Front-End Developers  Focarão na construção de interfaces responsivas e integração com o back-end. (1 a 2 pessoas focadas).
 
-Back-End Developers (1 a 2 pessoas focadas em Python ou java).
+Back-End Developers Serão responsáveis por desenvolver a lógica de negócios e integração com o banco de dados. (1 a 2 pessoas focadas em Python ou java).
 
-Designers (1 a 2 pessoas responsável por criar o layout e protótipos no Figma).
+Designers Designers: Criarão protótipos interativos e garantirão uma experiência de usuário eficiente. (1 a 2 pessoas responsável por criar o layout e protótipos no Figma).
 
-QA/Testers: (1 a 2 pessoa para garantir que as funcionalidades estão corretas e realizar testes com Postman e Jest).
+QA/Testers: Responsáveis por realizar testes funcionais e de carga, garantindo a estabilidade do sistema.(1 a 2 pessoa para garantir que as funcionalidades estão corretas e realizar testes com Postman e Jest).
 
 
 # Definições de requisitos
@@ -64,5 +64,5 @@ QA/Testers: (1 a 2 pessoa para garantir que as funcionalidades estão corretas e
 
 # Conclusão
 
-O projeto será testado por professores em máquinas virtuais. Este processo é crucial para garantir que o sistema esteja rodando perfeitamente, adquirindo um bom desempenho e usabilidade.
+Com a implementação do SalaFácil, espera-se uma otimização significativa no gerenciamento de salas, reduzindo o tempo de espera e conflitos de horários. Os testes realizados em máquinas virtuais garantirão a robustez do sistema, proporcionando um ambiente de uso estável e seguro para os professores da Uninassau
 
