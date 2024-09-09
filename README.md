@@ -18,7 +18,7 @@ SalaFácil surgiu para solucionar as dificuldades enfrentadas pelos professores 
 
 - Desempenho Escalável: O código deve ser otimizado para suportar um aumento no número de usuários sem degradação significativa na performance.
 
--Interface Responsiva: O sistema será acessível via dispositivos móveis e desktops.
+- Interface Responsiva: O sistema será acessível via dispositivos móveis e desktops.
 
 # Ferramentas de Desenvolvimento
 
