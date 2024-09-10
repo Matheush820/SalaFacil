@@ -27,15 +27,15 @@ A SalaFácil incorpora uma série de técnicas avançadas que a torna uma escolh
 O projeto vem equipado com uma série de ferramentas de desenvolvimento, essenciais para um projeto com um resultado positivo e funcional.
 - Design: Figma
 - Front-End: HTML5, CSS3, JavaScript, Bootstrap
-- Back-End: Python ou Java
+- Back-End: Python
 - Biblioteca: React
-- Banco de Dados: PostgreSQL
+- Banco de Dados: PostgreSQL ou MongoDB
 - Teste: Jest, Postman
 - Segurança: Helmet
 - Monitoramento: Sentry
 - Documentação: Markdown(Github), Swagger
-- Gestão de Projetos Ágeis: Jira - Scrum
-- Hospedagem e Deploy: AWS, Heroku ou Google Cloud 
+- Gestão de Projetos Ágeis: Trello
+- Hospedagem e Deploy: Heroku ou Google Cloud 
 - Ferramentas de Q/A: TestRail
 
 # Estrutura de Equipe
